@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1
+{
+    color: white;
+}
+/*p
+{
+    background-color: darkolivegreen;
+    color: white;
+}
+*/
+/*#p1
+{
+    background-color: darkolivegreen;
+    color: white;
+}
+
+#p2
+{
+    background-color: rgb(87, 97, 70);
+    color: white;
+}
+
+#p3
+{
+    background-color: rgb(32, 48, 6);
+    color: white;
+}
+*/
+p
+{
+    color: #00ff73;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan dotted underline;
+    font-size: 18px;
+}
